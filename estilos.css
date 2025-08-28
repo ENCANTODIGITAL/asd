@@ -253,7 +253,7 @@ nav a {
 
 /* Estilos para el texto de los encabezados */
 .reasons-to-choose h2 {
-    font-size: 50px; /* Tamaño de letra para los encabezados */
+    font-size: 25px; /* Tamaño de letra para los encabezados */
     padding:0px 0 40px 40px ;
     
 
@@ -265,7 +265,7 @@ nav a {
 
 /* Estilos para el texto de los párrafos */
 .reasons-text p {
-    font-size: 24px; /* Tamaño de letra para los párrafos */
+    font-size: 16px; /* Tamaño de letra para los párrafos */
 
    
     line-height: 1.4; /* Ajusta este valor según tus necesidades */
