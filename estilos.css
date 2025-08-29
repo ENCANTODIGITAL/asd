@@ -878,8 +878,27 @@ nav a {
   object-fit: cover;
   transform: none;
 }
+@media screen and (max-width: 768px) {
+  .mini-slider-img {
+    position: static;
+    display: block;
+    width: 100%;
+    height: auto;
+  }
 
+  .mini-slider-img img {
+    width: 100%;
+    height: auto;
+    object-fit: contain; /* o cover si quieres que se recorte pero llene */
+  }
+
+  .mini-carousel-box {
+    height: auto;
+    max-height: none;
+  }
+}
 
 }
+
 
 
