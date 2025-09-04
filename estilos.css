@@ -795,13 +795,13 @@ nav a {
     height: auto;
   }
 
-  #reasons-to-choose {
+  .reasons-to-choose {
     flex-direction: column;
     padding: 40px 20px;
     height: auto;
   }
 
-  #reasons-text {
+  .reasons-text {
     margin-right: 0;
     flex-basis: 100%;
   }
@@ -899,6 +899,7 @@ nav a {
 }
 
 }
+
 
 
 
